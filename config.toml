@@ -1,0 +1,19 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'NS Blog'
+theme = "beautifulhugo"
+
+
+[Params]
+# homeTitle = "Nivin's Blog" # Set a different text for the header on the home page
+  subtitle = "My New Blog Site "
+  logo = "img/logo.jpg"
+  favicon = "img/favicon.ico"
+
+ [Author]
+ name = "Nivin S"
+ github = "https://github.com/Nivin389"
+ website = "https://nivins.in/"
+ twitter = "https://twitter.com/Nivin389"
+ instagram = "https://www.instagram.com/vin._.xil/"
+ spotify = "https://open.spotify.com/user/j0u77uc3cgfpkknhv10c3v32o"
