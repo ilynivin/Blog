@@ -1,14 +1,17 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://github.com/Nivin389/Blog'
 languageCode = 'en-us'
-title = 'NS Blog'
+title = 'Nivin Blogs'
 theme = "beautifulhugo"
+pygmentsStyle = "trac"
 
 
 [Params]
 # homeTitle = "Nivin's Blog" # Set a different text for the header on the home page
-  subtitle = "My New Blog Site "
+  subtitle = "Welcome to My Blog site 👋"
   logo = "img/logo.jpg"
   favicon = "img/favicon.ico"
+  dateFormat = "April 20 2023"
+  wordCount = true
 
  [Author]
  name = "Nivin S"
@@ -17,3 +20,27 @@ theme = "beautifulhugo"
  twitter = "https://twitter.com/Nivin389"
  instagram = "https://www.instagram.com/vin._.xil/"
  spotify = "https://open.spotify.com/user/j0u77uc3cgfpkknhv10c3v32o"
+
+
+
+[[menu.main]]
+    name = "🏡 home"
+    url = ""
+    weight = 1
+
+
+ [[menu.main]]
+    identifier = "samples"
+    name = "📰 All Blogs"
+    weight = 2
+
+[[menu.main]]
+    parent = "samples"
+    name = "About-Me"
+    url = "posts/aboutme"
+    weight = 1
+
+[[menu.main]]
+  name = "🥢 Tags"
+  url = "tags"
+  weight = 3
