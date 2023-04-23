@@ -12,6 +12,7 @@ pygmentsStyle = "trac"
   favicon = "img/favicon.ico"
   dateFormat = "April 20 2023"
   wordCount = true
+  rss = true
 
  [Author]
  name = "Nivin S"
@@ -36,11 +37,17 @@ pygmentsStyle = "trac"
 
 [[menu.main]]
     parent = "samples"
-    name = "About-Me"
+    name = " 🎋About-Me"
     url = "posts/aboutme"
     weight = 1
 
 [[menu.main]]
-  name = "🥢 Tags"
-  url = "tags"
-  weight = 3
+    name = "🧤 Tags"
+    url = "tags"
+    weight = 3
+
+[[menu.main]]
+    parent = "samples"
+    name = "🥽 Favicon"
+    url = "posts/favicon"
+    weight = 1
