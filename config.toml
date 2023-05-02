@@ -13,7 +13,8 @@ pygmentsStyle = "trac"
   dateFormat = "April 20 2023"
   wordCount = true
   rss = true
-   readingTime = true
+  readingTime = true
+  showRelatedPosts = true
 
  [Author]
  name = "Nivin S"
@@ -22,6 +23,7 @@ pygmentsStyle = "trac"
  twitter = "https://twitter.com/Nivin389"
  instagram = "https://www.instagram.com/vin._.xil/"
  spotify = "https://open.spotify.com/user/j0u77uc3cgfpkknhv10c3v32o"
+ discord = "invite code (https://discord.gg/YWsCyzecDR)"
 
 
 
@@ -31,16 +33,15 @@ pygmentsStyle = "trac"
     weight = 1
 
 
+[[menu.main]]
+    name = "😎 About"
+    url = "page/aboutme"
+    weight = 3
+
  [[menu.main]]
     identifier = "samples"
     name = "📰 All Blogs"
     weight = 2
-
-[[menu.main]]
-    parent = "samples"
-    name = " 🎋About-Me"
-    url = "posts/aboutme"
-    weight = 1
 
 [[menu.main]]
     name = "🧤 Tags"
@@ -59,3 +60,5 @@ pygmentsStyle = "trac"
     name = "📃 CLI"
     url = "posts/create-cli-portfoilo"
     weight = 1
+
+
