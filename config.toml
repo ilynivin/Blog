@@ -1,14 +1,14 @@
 baseURL = 'https://blognivins.netlify.app/'
 languageCode = 'en-us'
-title = 'Nivin Blogs'
+title = 'The NS'
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 
 
 [Params]
-# homeTitle = "Nivin's Blog" # Set a different text for the header on the home page
+ homeTitle = "Nivin Blogs" 
   subtitle = "Welcome to My Blog site 👋"
-  logo = "img/logo.jpg"
+  logo = "img/Me_Logo.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "April 20 2023"
   wordCount = true
@@ -24,6 +24,7 @@ pygmentsStyle = "trac"
  instagram = "https://www.instagram.com/vin._.xil/"
  spotify = "https://open.spotify.com/user/j0u77uc3cgfpkknhv10c3v32o"
  discord = "YWsCyzecDR"
+ email = "nivinsvysakh2023@gmail.com"
 
 
 

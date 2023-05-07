@@ -1,17 +1,12 @@
 ---
-title: "Aboutme"
-date: 2023-05-02T09:55:55+05:30
+title: "AboutMe"
+subtitle: 👋 Hello I am Nivin 
 comments: false
 ---
-Hi 👋, I'm Nivin
-
-A passionate frontend developer from India
-
-
 ## About Me 
 
-I am Nivin 15Y/O Web Devaloper and Loves Coding . I do coding in my spare time i have collaborate with [GiveMeBadge](https://givemebadge.alexflipnote.dev/) and [Bottom_bar_sheet](https://github.com/Frezyx/bottom_bar_with_sheet). I am Looking for collaborate with many Open Source Projects . In my spare time i have created many [iot](https://www.oracle.com/in/internet-of-things/what-is-iot/#:~:text=What%20is%20IoT%3F,and%20systems%20over%20the%20internet.) Projects such as Iot Water irrigation System , IOT Water tank alert System and i have converted non Appliances to smart support using Alex to turn off and on the Appliances . This project was good I enjoyed it lol . Later I started to join  [DCS Robotics](https://dcsrobo.com/). Honestly the experience was good . There was Batches So i joined in a Batch and that batch was soo good . Still i can't forget the batch lol . They explaned how the robots will works and everything from Scratch to IDE . Soon i started created my robo in [DCS Robotics](https://dcsrobo.com/) and it was so good lol . 
-I forgot to Take Photo 😬 . Since at 2021 I meet with [Khaleel Gibran](https://github.com/khalby786). He told me everything like how to make a site and blog from Scratch . And thats how i Maked my own site and Blog . Khaleel Big Thanks 😁 buddy :D
+I am Nivin 15Y/O Web Devaloper and Loves Coding . I do coding in my spare time, and I have collaborated with [Bottom_bar_sheet](https://github.com/Frezyx/bottom_bar_with_sheet) , [GiveMeBadge](https://givemebadge.alexflipnote.dev/) and [HackClubDino](https://github.com/hackclub/dinosaurs). I am looking to collaborate with many open-source projects. In my spare time, I have created many projects, such as an IoT water irrigation system and an IOT water tank alert system, and I have converted non-appliances to smart support by using Alex to turn off and on the appliances. This project was good. I enjoyed it. Later, I started to join [DCSRobotics](https://dcsrobo.com/). Honestly, the experience was good. There were batches So I joined a batch, and that batch was so good. Still, I can't forget the batch. They explained how the robots will work and everything from Scratch to the IDE. Soon I started creating my robot in DCSRobotics, and it was so good.
+I forgot to take photos  Since 2021, I have met with [Khaleel](https://github.com/khalby786). He told me everything, like how to make a site and blog from scratch. And that's how I made my own site and blog. Khaleel, big thanks .  :D
 
 ---
 
@@ -42,4 +37,6 @@ I forgot to Take Photo 😬 . Since at 2021 I meet with [Khaleel Gibran](https:/
 
 *More Projects are in My [Github Repo](https://github.com/Nivin389?tab=repositories)*
 
-<h1 align="center"> 😀 Well thats all </h1>
+
+
+
