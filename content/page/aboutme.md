@@ -1,42 +1,59 @@
----
-title: "AboutMe"
-subtitle: 👋 Hello I am Nivin 
-comments: false
----
-## About Me 
+![Banner](https://cdn.discordapp.com/attachments/1101794604891774977/1105098164937166929/head.png)
 
-I am Nivin 15Y/O Web Devaloper and Loves Coding . I do coding in my spare time, and I have collaborated with [Bottom_bar_sheet](https://github.com/Frezyx/bottom_bar_with_sheet) , [GiveMeBadge](https://givemebadge.alexflipnote.dev/) and [HackClubDino](https://github.com/hackclub/dinosaurs). I am looking to collaborate with many open-source projects. In my spare time, I have created many projects, such as an IoT water irrigation system and an IOT water tank alert system, and I have converted non-appliances to smart support by using Alex to turn off and on the appliances. This project was good. I enjoyed it. Later, I started to join [DCSRobotics](https://dcsrobo.com/). Honestly, the experience was good. There were batches So I joined a batch, and that batch was so good. Still, I can't forget the batch. They explained how the robots will work and everything from Scratch to the IDE. Soon I started creating my robot in DCSRobotics, and it was so good.
-I forgot to take photos  Since 2021, I have met with [Khaleel](https://github.com/khalby786). He told me everything, like how to make a site and blog from scratch. And that's how I made my own site and blog. Khaleel, big thanks .  :D
+## 😎 About Me 
 
----
+> Hello , Forks i am Nivin Aka Nivin389 on GitHub. 
 
-## My TimeLine
-
-
-<h2 align ="center">
-
-| Year | Journey|
-|------|--------|
-|2016|Joined DCS Robo|
-|2017|Started to Create Games in JS|
-|2019|Started to Learn Languages |
-|2020|Started to Create Deploy My Site |
-|2023|Started to Create Deploy My Blog Site |
-
-</h2> 
-
-
-## My Projects 
-
-- [BlogSite](https://github.com/Nivin389/Blog)
-- [Portfoio](https://github.com/Nivin389/PortfolioWebsite)
-- [Monkey Click Game](https://github.com/Nivin389/Monkey-Face-in-Js-)
-- [Kill The monster](https://github.com/Nivin389/Kill-the-Monster-)
-- [Python C TO F](https://github.com/Nivin389/Celsius-to-Fahrenheit)
-- [Python Odd or Even](https://github.com/Nivin389/Odd-or-Even)
-
-*More Projects are in My [Github Repo](https://github.com/Nivin389?tab=repositories)*
+-   🔭  I’m currently working on  [HackClub](https://github.com/hackclub)  and  [MyBlog](https://github.com/Nivin389/Blog)
+-   🌱  I’m currently learning  [Astro.js](https://astro.build/)  ,  [Tailwind.css](https://tailwindcss.com/)
+-   💬  Ask me about App development and Game development
+-   📫  How to reach me:  [Discord Server](https://discord.gg/YWsCyzecDR)  , E-Mail or you can  [tweet](https://twitter.com/Nivin389).
+-   ⚡  Fun fact: I am Tec Guy who loves to kill Bugs :D
 
 
 
+## 😐 Who I am ?
 
+> Well You Know my Name is Nivin but You don't know my Coding journey  So i am going to Explain how I reached hear.
+
+> Well Here We Goo 
+
+## 😳 My Time Line 
+
+|Year|  Achievements|
+|--|--|
+| 2018 | Started to Join DCS Robotics and Created My Bot |
+|2019| Started to Learn Coding Languages Like HTML , CSS , Java Scripts |
+|2020  | Started to learn and  Develop and Deploy Sites |
+| 2021 | Created My First Portfolio Site (nivins.in) |
+|2022|Started to Learn Astro.js and Hugo|
+| 2023 | Created My Blog  Site (https://blognivins.netlify.app) |
+
+> Yes , This table shows My Coding Journey . 
+
+## 🤪 Contributions
+
+> Currently I have Collaborated with Following Projects 
+
+- Bottom_Bar_with_sheets
+> A repository created by Frezyx.
+- Give me Badge
+> A repository created by AlexFlipnote.
+- Hackclub Dino 
+> A repository created by Hackclub Org.
+
+<h2 align = "center">
+Well this is a Shot About-Me Page :P
+</h2>
+
+<h3 align = "left">
+
+💕Created , Build , Made by [Hugo](https://gohugo.io/) , [Nivin](https://github.com/Nivin389) and [Halogenica](https://github.com/halogenica)
+
+</h3>
+
+
+<h4 align = "Right">
+🤟Hugo Version  v0.111.3
+
+</h4>
