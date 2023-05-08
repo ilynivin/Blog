@@ -16,7 +16,8 @@ pygmentsStyle = "trac"
   readingTime = true
   showRelatedPosts = true
 
- [Author]
+
+[Author]
  name = "Nivin S"
  github = "https://github.com/Nivin389"
  website = "https://nivins.in/"
@@ -39,6 +40,13 @@ pygmentsStyle = "trac"
     url = "page/aboutme"
     weight = 3
 
+
+[[menu.main]]
+    name = "😋 Fan Arts!"
+    url = "posts/fan-arts"
+    weight = 3
+
+
  [[menu.main]]
     identifier = "samples"
     name = "📰 All Blogs"
@@ -56,10 +64,19 @@ pygmentsStyle = "trac"
     weight = 1
 
 
+
+[[menu.main]]
+    parent = "samples"
+    name = "😏 HackDino"
+    url = "posts/hackclub-dino"
+    weight = 1
+
+
 [[menu.main]]
     parent = "samples"
     name = "📃 CLI"
-    url = "posts/create-cli-portfoilo"
+    url = "posts/cli-terminal"
     weight = 1
+
 
 
