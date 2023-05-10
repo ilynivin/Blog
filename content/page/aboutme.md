@@ -1,6 +1,17 @@
+---
+title: "About Me"
+subtitle: "Well Thats Me !"
+draft: false
+comments: false
+---
+
+<h1 align = "center">
+
 ![Banner](https://cdn.discordapp.com/attachments/1101794604891774977/1105098164937166929/head.png)
 
-## 😎 About Me 
+
+
+</h1>
 
 > Hello , Forks i am Nivin Aka Nivin389 on GitHub. 
 
@@ -28,6 +39,8 @@
 | 2021 | Created My First Portfolio Site (nivins.in) |
 |2022|Started to Learn Astro.js and Hugo|
 | 2023 | Created My Blog  Site (https://blognivins.netlify.app) |
+
+<br><br>
 
 > Yes , This table shows My Coding Journey . 
 
