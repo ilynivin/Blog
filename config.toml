@@ -43,7 +43,7 @@ pygmentsStyle = "trac"
 
 [[menu.main]]
     name = "😋 Fan Arts!"
-    url = "posts/fan-arts"
+    url = "page/fanarts"
     weight = 3
 
 
