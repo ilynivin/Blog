@@ -23,42 +23,42 @@
 
 ### <ins> Issues</ins>
 
-Reporting a Issue 
+Reporting an issue
 
-- If you need to report this issue you have to Take a Screen Snip and Post it on the issue page of the github. And also assign the issue with Bug label . 
-
-<br><br>
-
-- If you are Requesting a New feature/request Pls type the feature/request in the issue and assign the issue with a enhancement label 
+- If you need to report this issue, you have to take a screenshot and post it on the issue page of Github. And also assign the issue a bug label.
 
 <br><br>
 
-- If you are new to submit the issue pls lable it as Good First Issue
+- If you are requesting a new feature or request, please type the feature or request in the issue and assign the issue an enhancement label.
 
 <br><br>
 
-- If you want to imporove the Documentation of the repo please lable it as Documentation
+- If you are new to submitting the issue, please label it "Good First Issue."
 
 <br><br>
 
-- If you want to qustion us please type the qustion and lable it as qustion tag 
+- If you want to improve the documentation of the repo, please label it as documentation.
+
+<br><br>
+
+- If you want us to please type qustion and lable as a etiquette qustion.
 
 
 <br><br>
 
 ### <ins>Pull Requests</ins>
 
-*The Main Code branch is proteced by the Owner of the blog site*
+*The Main Code branch is protected by the Proprietor of the blog site.*
 
-To get approval The Owner Reviues the code that you submited in the pull Request . Once it gets aproved it will merged into main branch and the pull request will be closed and gets deleted . 
+For approval The Owner Reviewed the code that you submited in the pull Request . Once ready, it will be merged with the primary branch and the draw request will be closed and removed.
 
-Please Follow this Setps to Write a Pull Request
+Please follow this setup to write a pull request.
 
-- Please write the changes that you made in the code of the repo 
+- Please write your changes to the repo code. 
 <br><br>
-- Please write it on clean way . 
+- Please write it down on a clean path . 
 <br><br>
-- Please dont add Mass Emojis to the pull request . 
+- Please do not add bulk emojis to the pull request.
 <br><br>
 
 ## 😎 Code of conduct
@@ -190,6 +190,5 @@ enforcement ladder](https://github.com/mozilla/diversity).
 
 ## 🏠Community 
 
-We are A small community . We are helping people to Contribute and collaburate other projects and more !
-
+We support people to contribute and collaborate on other projects and more!
 
