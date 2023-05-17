@@ -8,7 +8,7 @@ pygmentsStyle = "trac"
 [Params]
  homeTitle = "Nivin Blogs" 
   subtitle = "Welcome to My Blog site 👋"
-  logo = "img/Me_Logo.jpg"
+  logo = "img/profile.png"
   favicon = "img/favicon.ico"
   dateFormat = "April 20 2023"
   wordCount = true
@@ -20,6 +20,7 @@ pygmentsStyle = "trac"
 [Author]
  name = "Nivin S"
  github = "https://github.com/Nivin389"
+ codepen = "https://codepen.io/Nivin389"
  website = "https://nivins.in/"
  twitter = "https://twitter.com/Nivin389"
  instagram = "https://www.instagram.com/vin._.xil/"
@@ -74,7 +75,15 @@ pygmentsStyle = "trac"
 
 [[menu.main]]
     parent = "samples"
-    name = "📃 CLI"
+    name = "📃 HTML Basics"
+    url = "posts/html-basics"
+    weight = 1
+
+
+
+[[menu.main]]
+    parent = "samples"
+    name = "⚙ CLI"
     url = "posts/cli-terminal"
     weight = 1
 
