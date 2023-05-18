@@ -12,7 +12,6 @@ pygmentsStyle = "trac"
   favicon = "img/favicon.ico"
   dateFormat = "April 20 2023"
   wordCount = true
-  rss = true
   readingTime = true
   showRelatedPosts = true
 
