@@ -1,6 +1,6 @@
 baseURL = 'https://blognivins.netlify.app/'
 languageCode = 'en-us'
-title = 'The NS'
+title = 'Nivin Vysakh'
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 
@@ -9,9 +9,10 @@ pygmentsStyle = "trac"
  homeTitle = "Nivin Blogs" 
   subtitle = "Welcome to My Blog site 👋"
   logo = "img/profile.png"
-  favicon = "img/favicon.ico"
+  favicon = "img/icon.png"
   dateFormat = "April 20 2023"
   wordCount = true
+  rss = false
   readingTime = true
   showRelatedPosts = true
 
@@ -86,5 +87,9 @@ pygmentsStyle = "trac"
     url = "posts/cli-terminal"
     weight = 1
 
-
+[[menu.main]]
+    parent = "samples"
+    name = "💘 Hugo"
+    url = "posts/start-creating-hugo"
+    weight = 1
 
