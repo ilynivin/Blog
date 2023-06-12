@@ -3,18 +3,28 @@ languageCode = 'en-us'
 title = 'Nivin Vysakh'
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClassic = true
+pygmentOptions = "linenos=inline"
 
 
 [Params]
  homeTitle = "Nivin Blogs" 
   subtitle = "Welcome to My Blog site 👋"
+  mainSections = ["post","posts"]
   logo = "img/profile.png"
   favicon = "img/icon.png"
-  dateFormat = "April 20 2023"
+  dateFormat = "January 2, 2006"
   wordCount = true
   rss = false
   readingTime = true
   showRelatedPosts = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  hideAuthor = true
 
 
 [Author]
@@ -37,56 +47,37 @@ pygmentsStyle = "trac"
 
 
 [[menu.main]]
-    name = "😎 About"
-    url = "page/aboutme"
-    weight = 3
-
-
-[[menu.main]]
     name = "😋 Fan Arts!"
     url = "page/fanarts"
     weight = 3
-
-
  [[menu.main]]
     identifier = "samples"
     name = "📰 All Blogs"
     weight = 2
-
 [[menu.main]]
     name = "🧤 Tags"
     url = "tags"
     weight = 3
-
 [[menu.main]]
     parent = "samples"
     name = "🥽 Favicon"
     url = "posts/favicon"
     weight = 1
-
-
-
 [[menu.main]]
     parent = "samples"
-    name = "😏 HackDino"
-    url = "posts/hackclub-dino"
+    name = "🌍 Astro"
+    url = "posts/switch-to-astro"
     weight = 1
-
-
 [[menu.main]]
     parent = "samples"
     name = "📃 HTML Basics"
     url = "posts/html-basics"
     weight = 1
-
-
-
 [[menu.main]]
     parent = "samples"
     name = "⚙ CLI"
     url = "posts/cli-terminal"
     weight = 1
-
 [[menu.main]]
     parent = "samples"
     name = "💘 Hugo"
